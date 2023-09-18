@@ -10,4 +10,4 @@ For example, October dates would come before May dates, \
 because October has an 'r' in it. \
 thus: (2005-07-01, 2005-01-02, 2005-01-01, 2005-05-03) \
 would sort to \
-(2005-01-01, 2005-01-02, 2005-07-01, 2005-05-03)\
+(2005-01-01, 2005-01-02, 2005-07-01, 2005-05-03)
